@@ -1,20 +1,14 @@
 {
   "basics": {
-    "name": "Pixel Pioneers",
+    "name": "The Pixel Pioneers",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "Molly@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://mmaluhia.github.io",
     "summary": "Welcome to the official The Pixel Pioneers website. This is a student produced project created by the group known as Team Rocket.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
-    ]
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" }
   },
-  "Genre": [
+  "interests": [
     { "name": "Puzzle" },
     { "name": "RPG" },
     { "name": "Platformer" },
