@@ -9,16 +9,16 @@ labels:
   - Game Demo
 ---
 
-## Game Guide
+# Game Guide
 Classic Side-Scroll Run-and-Jump where you explore and uncover the mysteries that Eidwynd Hollow possesses. Activating the Stone Arch will allow the player to unlock the next level.
 
-Level Rewards:
+## Level Rewards:
 - Forest Coins: collect them to upgrade stats...
 Stock
 Strength
 Defense
 
-Boss Stages (Last Level of the Stage)
+## Boss Stages (Last Level of the Stage)
 - Memory Orbs
 Used to unlock hidden memories of the Main Character
 
