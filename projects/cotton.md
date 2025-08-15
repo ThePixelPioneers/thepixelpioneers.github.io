@@ -1,57 +1,60 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/eidwyndhollow.jpeg
 title: "Eidwynd Hollow"
 date: 2014
 published: true
 labels:
   - Map
   - Stages
-summary: "Immerse yourself in forest of Eidwynd Hollow..."
+summary: "Eidwynd Hollow Beckons..."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
-
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
+<img class="img-fluid" src="../img/cotton/eidwyndhollow.jpeg">
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Eidwynd Hollow is a vast, shifting woodland where reality bends. Sunlight breaks through twisted canopies in unnatural angles, rivers flow backward at dusk, and ancient ruins rise or vanish with the phases of the moon. 
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+The forest is divided into themed biomes—each with unique environmental puzzles, creatures, and hidden truths:
+</pre>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+<img class="img-fluid" src="../img/cotton/thornsweptvale.jpeg">
 
-pickup candle
-- you are now carrying the candle -
+<pre>
+STAGES 1 - 3
 
-pickup match
-- you are now carrying the match -
+The Thornswept Vale: A section tangled in brambles and darkness. Glowing insects guide the path, but strange statues seem to turn their heads when you’re not looking
 
-light match candle
+</pre>
 
-The candle is now lit. It illuminates everything in the room.
+<img class="img-fluid" src="../img/cotton/glassgrove.jpeg">
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
+<pre>
+STAGES 4 - 6
+
+Glassgrove: Trees with crystalline bark reflect possible futures. NPCs here speak in riddles, and monsters appear as distorted reflections of the player.
+
+</pre>
+
+<img class="img-fluid" src="../img/cotton/hollowheart.jpeg">
+
+<pre>
+STAGES 7-9
+
+The Hollowheart: The supposed "center" of the forest—though reaching it is near impossible. Time collapses here, and reality flickers like an old film reel.
+
+</pre>
+
+<pre>
+
+<img class="img-fluid" src="../img/cotton/ghosts.jpeg">
+
+The True Ending:
+Having explored through Thornswept Vale, Glassgrove and Hollowheart, the choir beckons the hero and reveals the truth. 
+
+“You were a soldier once-one death among thousands. But grief remembered you. Regret shaped you. And from the silence between final breaths, something greater was born. You are not just one soul. You are the echo of all who never made it home”   
+
 </pre>
 
 <hr>
