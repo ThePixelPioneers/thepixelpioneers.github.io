@@ -4,7 +4,6 @@ type: project
 title: "Character Designs"
 image: img/vacay/ghosts.jpeg
 
-date: 2025
 published: true
 labels:
   - OC Designs
