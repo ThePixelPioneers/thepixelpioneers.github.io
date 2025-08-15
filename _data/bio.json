@@ -3,7 +3,7 @@
     "name": "The Pixel Pioneers",
     "picture": "https://github.com/kambergjohnson.png",
     "website": "https://github.com/ThePixelPioneers",
-    "summary": "Welcome to the official The Pixel Pioneers website. This is a student produced project created by the group known as Team Rocket.",
+    "summary": "Welcome to the official The Pixel Pioneers website. This is a student produced project created by the group known as Team Rocket."
   },
   "interests": [
     { "name": "Puzzle" },
@@ -12,7 +12,6 @@
     { "name": "Slide Scrolling" },
     { "name": "Pixel Graphics" }
   ],
-  
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -25,10 +24,6 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "work": [
