@@ -51,30 +51,10 @@ layout: home
       </div>
     </div>
 
-    {% if site.data.bio.skills %}
-    <div class="row pt-4 align-items-center">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Skills</h1>
-      </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.skills %}
-          <p class="m-0">
-            <b>{{ entry.name }}:</b>
-              {% for keyword in entry.keywords %}
-                {{ keyword }}{% if forloop.last != true %}, {% endif %}
-              {% endfor %}
-          </p>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-  {% comment %}
-    MEMBER ONE: JOHN HOLT
         {% if site.data.bio.skills %}
     <div class="row pt-4 align-items-center">
       <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">John Holt</h1>
+        <h1 class="display-6 text-start m-0">John Holt / Skills</h1>
       </div>
       <div class="col-lg-9">
         {% for entry in site.data.bio.skills %}
@@ -88,12 +68,11 @@ layout: home
       </div>
     </div>
     {% endif %}
-  {% endcomment %}
 
     {% if site.data.bio.education %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Education</h1>
+        <h1 class="display-6 text-start m-0">Tiara Tenorio / Education</h1>
       </div>
       <div class="col-lg-9">
         {% for entry in site.data.bio.education %}
@@ -108,29 +87,7 @@ layout: home
                   {% endfor %}
                 </ul>
               {% endif %}
-            </div>
-
-    {% comment %}
-           {% if site.data.bio.education %}
-    <div class="row pt-4 align-items-start">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Tiara Tenorio</h1>
-      </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.education %}
-          <div class="row mb-3">
-            <div class="col-9">
-              <p class="m-0"><b>{{ entry.institution }}</b></p>
-              <p class="m-0">{{ entry.studyType }}, {{ entry.area }}</p>
-              {% if entry.courses %}
-                <ul>
-                  {% for course in entry.courses %}
-                    <li>{{ course }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </div> 
-      {% endcomment %}
+              </div>
 
           <div class="col-3">
             <p class="m-0 text-end">
