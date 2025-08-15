@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
 title: "Character Designs"
 date: 2025
 published: true
@@ -11,8 +10,6 @@ labels:
   - Lore
 summary: "Check out the diverse colorful cast of characters within The Pixel Pioneers world."
 ---
-
-// Characters //
 
 <img class="img-fluid" src="../img/vacay/unknownhero.jpeg">
 
