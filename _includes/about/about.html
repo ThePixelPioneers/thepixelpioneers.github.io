@@ -10,7 +10,7 @@
         <p class="lead">{{ site.data.bio.basics.summary }}</p>
         <hr class="my-4">
         <p class="lead m-0">
-          ABOUT THIS GAME: The Pixel Pioneers is a narrative-driven side-scrolling adventure through a haunting, dreamlike forest where reality shifts and memories hide in shadows. Run, jump, explore and uncover echoes of a forgotten past.     
+          ABOUT THIS GAME:      
           {% for interest in site.data.bio.genres %}
           {{ interest.name }}{% if forloop.last != true %}, {% endif %}
           {% endfor %}
