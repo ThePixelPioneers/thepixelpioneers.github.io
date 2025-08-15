@@ -16,6 +16,7 @@ summary: "Check out the diverse colorful cast of characters within The Pixel Pio
 
 <img class="img-fluid" src="../img/vacay/unknownheropixel.jpeg">
 
+## Unknown
 Main Character (Name: ???)
 Intro:
 The Main Character is a mysterious individual that appears to be unconscious within Eidwynd Hollow.
@@ -31,7 +32,8 @@ Aelvantar (Mythical Blue Sword)
 
 <img class="img-fluid" src="../img/vacay/ira.jpeg">
 
-NPC ( Name: Ira the Lanternkeeper ) [Thornswept Vale]
+## Ira the Lanternkeeper
+NPC [Thornswept Vale]
 Intro:
 A former cartographer whose memory is fading with every sunrise. She offers cryptic maps and personal stories that suggest she’s lived many lifetimes in the forest.
 
@@ -53,7 +55,8 @@ Blue Lantern
 
 <img class="img-fluid" src="../img/vacay/SOVA.png">
 
-NPC ( Name: Sova ) [Glassgrove]
+## Sova
+NPC [Glassgrove]
 Intro:
 An old gnome-like man who works as a herbalist within Glassgrove. He crafts memory potions from forest herbs. His hut is full of talking roots and animated leaves that argue with each other.
 
@@ -76,7 +79,8 @@ Wooden Staff
 
 <img class="img-fluid" src="../img/vacay/THORNE NPC.png">
 
-NPC ( Name: Thorne ) [Glassgrove]
+## Thorne
+NPC [Glassgrove]
 Intro:
 A monster hunter who insists the forest betrayed her. She hunts its creatures relentlessly, yet something about her presence warps the forest’s mood.
 
@@ -100,7 +104,9 @@ Crossbow
 
 <img class="img-fluid" src="../img/vacay/GHOSTKID1.png">
 
-NPC ( Name: The Choir ) [Thornswept Vale / Glassgrove / Hollowheart]
+## The Choir
+
+NPC [Thornswept Vale / Glassgrove / Hollowheart]
 Intro:
 A collective of ghostly children who speak in unison. They only appear in reflections and water surfaces. Their connection to Eidwynd’s origins is profound—and dangerous.
 
