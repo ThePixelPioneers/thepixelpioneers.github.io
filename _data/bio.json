@@ -15,11 +15,8 @@
     "skills": [
       {
         "name": "Languages and Frameworks",
-        "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-      },
-      {
-        "name": "Toolsets/OS",
-        "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+        "position": "Leader / Game Programmer",
+        "summary": "Came up with the game idea"
       }
     ],
     "education": [
