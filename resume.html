@@ -69,7 +69,8 @@ layout: home
     </div>
     {% endif %}
 
-    <!-- MEMBER ONE: JOHN HOLT
+  {% comment %}
+    MEMBER ONE: JOHN HOLT
         {% if site.data.bio.skills %}
     <div class="row pt-4 align-items-center">
       <div class="col-lg-3">
@@ -87,8 +88,7 @@ layout: home
       </div>
     </div>
     {% endif %}
-    
-    -->
+  {% endcomment %}
 
     {% if site.data.bio.education %}
     <div class="row pt-4 align-items-start">
@@ -110,7 +110,7 @@ layout: home
               {% endif %}
             </div>
 
-      <!--
+    {% comment %}
            {% if site.data.bio.education %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
@@ -130,8 +130,7 @@ layout: home
                 </ul>
               {% endif %}
             </div> 
-      
-      -->
+      {% endcomment %}
 
           <div class="col-3">
             <p class="m-0 text-end">
