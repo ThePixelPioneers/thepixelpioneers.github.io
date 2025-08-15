@@ -45,8 +45,10 @@ layout: home
         {% for entry in site.data.bio.skills %}
           <p class="mb-0"><b>{{ entry.position }}</b></p>
           <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-          <p class="mb-0">{{ entry.summary }}</p>
+          <p class="m-0">
             <b>{{ entry.name }}:</b>
+              {% for keyword in entry.keywords %}
+                {{ keyword }}{% if forloop.last != true %}, {% endif %}
               {% endfor %}
           </p>
         {% endfor %}
