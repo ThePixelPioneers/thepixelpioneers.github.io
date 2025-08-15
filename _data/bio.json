@@ -12,12 +12,19 @@
     { "name": "Slide Scrolling" },
     { "name": "Pixel Graphics" }
   ],
-  "skills": [
+  
+  "volunteer": [
     {
-      "name": "Leader / Game Programmer",
-      "email": "Molly@hawaii.edu",
+      "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "https://github.com/jholt12",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "position": "Leader / Game Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
     },
     {
       "name": "Toolsets/OS",
@@ -45,20 +52,6 @@
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     }
   ]
