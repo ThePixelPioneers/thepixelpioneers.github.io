@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
+title: "Eidwynd Hollow"
 date: 2014
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Map
+  - Stages
+summary: "Immerse yourself in forest of Eidwynd Hollow..."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
