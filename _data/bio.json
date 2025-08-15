@@ -2,7 +2,7 @@
   "basics": {
     "name": "The Pixel Pioneers",
     "picture": "https://github.com/kambergjohnson.png",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://github.com/ThePixelPioneers",
     "summary": "Welcome to the official The Pixel Pioneers website. This is a student produced project created by the group known as Team Rocket.",
   },
   "interests": [
@@ -16,7 +16,7 @@
     {
       "name": "John Holt",
       "email": "Molly@hawaii.edu",
-      "website": "https://mmaluhia.github.io",
+      "website": "https://github.com/jholt12",
       "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
     },
     {
