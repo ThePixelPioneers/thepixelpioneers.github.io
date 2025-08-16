@@ -12,7 +12,7 @@ summary: "Eidwynd Hollow Beckons..."
 
 ## Map of Eidwynd Hollow
 
-<img width="200px" src="../img/cotton/eidwyndhollow.jpeg" class="img-thumbnail" >
+<img src="../img/cotton/eidwyndhollow.jpeg">
 
 
 Eidwynd Hollow is a vast, shifting woodland where reality bends. Sunlight breaks through twisted canopies in unnatural angles, rivers flow backward at dusk, and ancient ruins rise or vanish with the phases of the moon. 
@@ -21,7 +21,7 @@ The forest is divided into themed biomes—each with unique environmental puzzle
 
 ## The Thornswept Vale
 
-<img class="img-fluid" src="../img/cotton/thornsweptvale.jpeg" width="150">
+<img class="img-fluid" src="../img/cotton/thornsweptvale.jpeg">
 
 STAGES 1 - 3
 
