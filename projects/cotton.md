@@ -20,7 +20,7 @@ The forest is divided into themed biomes—each with unique environmental puzzle
 
 ## The Thornswept Vale
 
-<img class="img-fluid" src="../img/cotton/thornsweptvale.jpeg">
+<img class="img-fluid" src="../img/cotton/thornsweptvale.jpeg" width="150">
 
 STAGES 1 - 3
 
