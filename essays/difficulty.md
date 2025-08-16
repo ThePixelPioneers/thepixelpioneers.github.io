@@ -9,7 +9,8 @@ labels:
   - To Be Continued...
 ---
 
-## Current Progress
+### Current Progress
+-----
 
 In regards to The Pixel Pioneers, we currently have a well-developed and detailed outline that forms the backbone of the project. At this stage, our primary focus is on bringing all the individual elements together into a cohesive and fully functioning game.
 
@@ -21,7 +22,8 @@ To enhance immersion and player involvement even further, we are also implementi
 
 Ultimately, every design decision, from mechanics to art, from music to dialogue, has been made with the intention of crafting an experience that is both entertaining and emotionally resonant. The Pixel Pioneers is not just about reaching the end of the game. It is about the discoveries made along the way.
 
-## What Comes Next 
+### What Comes Next 
+-----
 As we look to the future of The Pixel Pioneers, our next objective is to transition from a conceptual framework to a fully realized, playable experience. This involves developing a polished vertical slice that showcases the core mechanics, visual style, and tone of the game in a compact but representative form. The goal of this phase is to validate the gameplay systems we have in place while identifying any areas that require fine-tuning or rebalancing.
 
 User feedback will play a critical role during this stage, as we plan to conduct focused playtests with a range of players to better understand how the game's pacing, difficulty, and narrative flow resonate with different audiences. Insights gathered from these sessions will inform future iterations, allowing us to refine the user experience and further strengthen the game's identity.
