@@ -16,7 +16,18 @@ labels:
 
   ---- DOWNLOAD GAME [HERE](https://github.com/jholt12/Pixel-Pioneers) ----
 
-[SOUNDTRACK] (https://drive.google.com/drive/folders/17Jy1XNPCYulacIvSbxtEAXBUN9pYtuBN)
+
+### Soundtrack
+-----
+[Menu](https://drive.google.com/drive/folders/19Bv6rvgTSYl60YJ6xiZ4_ud9rgjEnQBI?usp=sharing)
+
+[Movement_SFX](https://drive.google.com/drive/folders/1MJCP3K607mr6qjPTBxe_Bc2GuKZJEAjD?usp=sharing)
+
+[Stage_OST](https://drive.google.com/drive/folders/17Jy1XNPCYulacIvSbxtEAXBUN9pYtuBN?usp=sharing)
+
+[Attack_SFX](https://drive.google.com/drive/folders/1hi1oqDuFMRbKP0FqJEnKf6GNnY6B8ONg?usp=sharing)
+
+
 
 ### Tutorial
 -----
