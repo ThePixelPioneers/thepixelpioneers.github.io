@@ -9,6 +9,8 @@ labels:
   - To Be Continued...
 ---
 
+
+
 ### Current Progress
 -----
 
@@ -21,6 +23,8 @@ One of our main goals with The Pixel Pioneers is to make the player's journey fe
 To enhance immersion and player involvement even further, we are also implementing a system of NPC (non-playable character) interactions. These NPCs are designed not only to enrich the story and world-building but also to provide useful guidance, hints, and character-driven moments that support the player on their journey.
 
 Ultimately, every design decision, from mechanics to art, from music to dialogue, has been made with the intention of crafting an experience that is both entertaining and emotionally resonant. The Pixel Pioneers is not just about reaching the end of the game. It is about the discoveries made along the way.
+
+
 
 ### What Comes Next 
 -----
