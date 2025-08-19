@@ -8,13 +8,14 @@ labels:
   - PIXEL PIONEERS TRAILER
   - GAME
   - TUTORIAL
+  - STORYBOARD
 
 ---
 
 [PIXEL PIONEERS TRAILER](https://drive.google.com/file/d/1h9ojRdBeeOcVeDeyueOm5tQphnBsO3QG/view?usp=sharing)
 
 
-  ---- DOWNLOAD GAME [HERE](https://github.com/jholt12/Pixel-Pioneers) ----
+  ----TRY OUT THE GAME [HERE](https://github.com/jholt12/Pixel-Pioneers)----
 
 
 ### Soundtrack
