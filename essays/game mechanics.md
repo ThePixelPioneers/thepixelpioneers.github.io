@@ -14,7 +14,7 @@ labels:
 [PIXEL PIONEERS TRAILER](https://drive.google.com/file/d/1h9ojRdBeeOcVeDeyueOm5tQphnBsO3QG/view?usp=sharing)
 
 
-  --------------- DOWNLOAD GAME [HERE](https://github.com/jholt12/Pixel-Pioneers) ---------------
+  ---- DOWNLOAD GAME [HERE](https://github.com/jholt12/Pixel-Pioneers) ----
 
 [SOUNDTRACK] (https://drive.google.com/drive/folders/17Jy1XNPCYulacIvSbxtEAXBUN9pYtuBN)
 
