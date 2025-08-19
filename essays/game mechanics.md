@@ -5,8 +5,10 @@ title: "Game Mechanics"
 # All dates must be YYYY-MM-DD format!
 published: true
 labels:
-  - Pixel Pioneers 101
-  - Game Demo
+  - PIXEL PIONEERS TRAILER
+  - GAME
+  - TUTORIAL
+
 ---
 
 [PIXEL PIONEERS TRAILER](https://drive.google.com/file/d/1h9ojRdBeeOcVeDeyueOm5tQphnBsO3QG/view?usp=sharing)

@@ -5,8 +5,8 @@ image: img/cotton/eidwyndhollow.jpeg
 title: "Eidwynd Hollow"
 published: true
 labels:
-  - Map
-  - Stages
+  - MAP
+  - STAGES
 summary: "Eidwynd Hollow Beckons..."
 ---
 

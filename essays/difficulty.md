@@ -5,7 +5,7 @@ title: "Future Plans"
 # All dates must be YYYY-MM-DD format!
 published: true
 labels:
-  - Yet To Come
+  - Future Development
   - To Be Continued...
 ---
 
